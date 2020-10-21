@@ -72,7 +72,6 @@
                     ++$i;
                 }
             ?>
-
         </table>
     </body>
 </html>
